@@ -42,6 +42,14 @@ cd poker-ai-engine
 | `baseplayers.py`    | Rule-based and random player bots              |
 | `Raisep.py`         | AdaptiveRaisePlayer AI implementation          |
 | `player.py`         | Player base class and enums                    |
+| `player1.py`        | Stratergy Based AI Implementation              |
+| `player2.py`        | Monte Carlo Simulations and GTO based idea     |
+| `player69.py`       | Stratergy Based AI Implementation              |
+| `pypoker.py`        | Pypokerengine based Implementation             |
+| `raiser.py`         | Advanced AdaptiveRaisePlayer AI implementation |
+| `raisert.py`        | Advanced AdaptiveRaisePlayer AI implementation |
+| `graiserp.py`       | Advanced AdaptiveRaisePlayer AI implementation |
+| `graiserp2.py`      | Advanced AdaptiveRaisePlayer AI implementation |
 
 ---
 
@@ -119,7 +127,8 @@ MIT License (or specify your project's license)
 
 ## 🙏 Credits
 
-Developed by [Your Name or Team].  
+Developed by Taher Merchant, Aman Kumar, Abhinav Rajput and Prisha Gulati.
+Special thanks to Saksham Jain for all his Guidance.
 Special thanks to contributors and open-source libraries.
 
 ---
