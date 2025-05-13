@@ -25,8 +25,8 @@ A modular Python engine for simulating and experimenting with Texas Hold'em poke
 
 Clone this repository and run locally:
 ```
-git clone https://github.com/yourusername/poker-ai-engine.git
-cd poker-ai-engine
+git clone https://github.com/TaherMerchant25/Texas-Holdem-AI-Poker-2025.git
+cd Texas-Holdem-AI-Poker-2025
 ```
 
 ---
